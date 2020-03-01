@@ -1,4 +1,5 @@
 # Práctica: Handling Events
+Apuntes de [eloquentJavascript](https://eloquentjavascript.net/15_event.html#c_TpxWIP8ylU)
 
 ## Tabla de contenidos
 
