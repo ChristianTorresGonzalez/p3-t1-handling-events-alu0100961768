@@ -4,15 +4,19 @@ title: Ejercicios
 permalink: /ejercicios/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+En esta página podemos encontrar la lista de ejercicios prácticos solicitados por la práctica:
 
 
-[jekyll-organization]: https://github.com/jekyll
+## Práctica 3
+
+**Censored Keyboard:**
+
+[Código](https://github.com/ULL-ESIT-PL-1920/p3-t1-handling-events-alu0100961768/blob/master/censoredkeyboard.html) | [Ejemplo]()
+
+**Mouse Trail:**
+
+[Código](https://github.com/ULL-ESIT-PL-1920/p3-t1-handling-events-alu0100961768/blob/master/mousetrail.html) | [Ejemplo]()
+
+**Tabs:**
+
+[Código](https://github.com/ULL-ESIT-PL-1920/p3-t1-handling-events-alu0100961768/blob/master/tabs.html) | [Ejemplo]()
