@@ -5,8 +5,6 @@
 layout: default
 ---
 
-# Apuntes Procesadores de Lenguaje
-
 Estos son los apuntes de PL creados por el alumno Germán Alfonso Teixidó.
 
 Esta página web ha sido creada usando [jekyll](https://jekyllrb.com) y contiene tanto apuntes de la asignatura, como informes y ejercicios resueltos.
