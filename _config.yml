@@ -25,9 +25,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   Procesadores de Lenguaje [PL] de la Universidad de La Laguna, curso 2019/20, grado en 
   Ingeniería Informática.
   Contiene las actividades e informes creados por el alumno Germán Alfonso Teixidó.
-baseurl: ""
+baseurl: "p3-t1-handling-events-alu0100961768"
 # the subpath of your site, e.g. /blog
-url: "p3-t1-handling-events-alu0100961768" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: alu0100961768
 
 # Build settings
