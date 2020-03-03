@@ -26,8 +26,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Ingeniería Informática.
   Contiene las actividades e informes creados por el alumno Germán Alfonso Teixidó.
 baseurl: "p3-t1-handling-events-alu0100961768"
-# the subpath of your site, e.g. /blog
-url: "https://ull-esit-pl-1920.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+# 
+url: "https://ull-esit-pl-1920.github.io" # 
 github_username: alu0100961768
 
 # Build settings
