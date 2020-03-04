@@ -1,4 +1,5 @@
-# Práctica: Handling Events
+# Práctica: Handling Events [![Build Status](https://travis-ci.com/alu0100961768/LPP-travis-coverall.svg?branch=master)](https://travis-ci.com/alu0100961768/LPP-travis-coverall)
+
 Apuntes de [eloquentJavascript](https://eloquentjavascript.net/15_event.html#c_TpxWIP8ylU)
 
 ## Tabla de contenidos
